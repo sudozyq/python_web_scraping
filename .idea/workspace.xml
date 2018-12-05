@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f4e2428-7c35-4e58-a2e1-d3668f501cf4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapetest.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapetest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +17,8 @@
       <file leaf-file-name="scrapetest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapetest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="168">
+              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -29,8 +29,8 @@
       <file leaf-file-name="chapter2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="294">
+              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -197,8 +197,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapetest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="168">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
@@ -207,8 +207,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="294">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>

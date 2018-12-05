@@ -9,10 +9,12 @@ def getTitle(url):
     except (HTTPError, URLError) as e:
         return None
     try:
-        bsObj = BeautifulSoup(html.read())
-        title = bsObj.html.body.h1
+        bsObj = BeautifulSoup(html.read(), features="html.parser")
+        print(bsObj)
+        title = bsObj.body.h1
     except AttributeError as e:
-        return title
+        return None
+    return title
 
 title = getTitle("http://pythonscraping.com/pages/page1.html")
 if title == None:
